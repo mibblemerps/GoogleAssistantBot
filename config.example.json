@@ -1,0 +1,15 @@
+{
+    "clientId": "",
+    "token": "",
+    "relayUrl": "http://127.0.0.1:3000",
+    "defaultUser": "Default",
+    "users": {
+        "<discord user id>": "<google assistant relay user name>"
+    },
+    "phrases": [
+        "hey google",
+        "ok google",
+        "okay google",
+        "!g "
+    ]
+}

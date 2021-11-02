@@ -1,0 +1,5 @@
+# Config contains sensitive information
+config.json
+DefaultUser.txt
+
+node_modules/
